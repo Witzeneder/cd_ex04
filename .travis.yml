@@ -1,7 +1,6 @@
-os:
-  linux
+os: linux
 
-language: 
+language:
   go
 
 services:
