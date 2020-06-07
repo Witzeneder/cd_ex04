@@ -1,8 +1,6 @@
-os:
-  linux
+os: linux
 
-language:
-  go
+language: go
 
 services:
   - docker
